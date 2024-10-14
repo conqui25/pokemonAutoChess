@@ -390,7 +390,9 @@
     "IVY_CUDGEL": "Clava di Liane",
     "FORCE_PALM": "Palmoforza",
     "THUNDER_CAGE": "Elettrogabbia",
-    "HEADBUTT": "Bottintesta"
+    "HEADBUTT": "Bottintesta",
+    "STEEL_WING": "Alacciaio",
+    "YAWN": "Sbadiglio"
   },
   "pkm": {
     "DEFAULT": "MissingNo.",
@@ -1247,7 +1249,10 @@
     "OGERPON_HEARTHFLAME_MASK": "Ogerpon Maschera Focolare",
     "OGERPON_CORNERSTONE": "Ogerpon Fondamenta",
     "OGERPON_CORNERSTONE_MASK": "Ogerpon Maschera Fondamenta",
-    "IRON_HANDS": "Manoferrea"
+    "IRON_HANDS": "Manoferrea",
+    "ROOKIDEE": "Rookidee",
+    "CORVISQUIRE": "Corvisquire",
+    "CORVIKNIGHT": "Corviknight"
   },
   "ability_description": {
     "SOFT_BOILED": "Cura tutti gli effetti di stato e garantisce [20,40,80,SP] SHIELD ad ogni Pokèmon alleato",
@@ -1972,6 +1977,7 @@
     "HEAT_ROCK": "Rocciacalda",
     "SMOOTH_ROCK": "Roccialiscia",
     "BLACK_AUGURITE": "Augite Nera",
+    "FLOAT_STONE": "Pietralieve",
     "FIRE_SHARD": "Coccio di Fuoco",
     "TEAL_MASK": "Maschera Turchese",
     "WELLSPRING_MASK": "Maschera Pozzo",
